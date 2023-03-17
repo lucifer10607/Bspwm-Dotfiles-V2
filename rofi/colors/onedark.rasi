@@ -1,0 +1,13 @@
+/**
+   * Colors
+   * #26233aff
+   **/
+
+*{
+	background:     #101215E6;
+    background-alt: #1c1c1eE6;
+    foreground:     #f2f2f2f2;
+    selected:       #6791c920;
+    active:         #6791c920;
+    urgent:         #E06C75FF;
+}
